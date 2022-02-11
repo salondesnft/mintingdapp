@@ -1,4 +1,4 @@
-ABI = "[
+ABI = [
 	{
 		"inputs": [],
 		"stateMutability": "nonpayable",
@@ -766,4 +766,4 @@ ABI = "[
 		"stateMutability": "nonpayable",
 		"type": "function"
 	}
-]"
+]
